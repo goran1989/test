@@ -14,4 +14,4 @@ jobs:
         server: ftp.noble-temp.tech
         username: demo1@noble-temp.tech
         password: Adam@2022
-        server-dir: /public_html
+  
